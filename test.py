@@ -1,5 +1,5 @@
 import pytest
-from Proyek_UAS_Asamny import *
+from main import *
 
 def test_place_chips1(): #Success test
     B = BlackChip()

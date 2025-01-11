@@ -1,6 +1,3 @@
-#Kelompok ASamNy HalOnSa (Aswin angkaSa, Samuel Onasis, giovaNy Halimko)
-#Topik : Permainan papan Othello
-
 from abc import ABC, abstractmethod
 from time import sleep
 import os
